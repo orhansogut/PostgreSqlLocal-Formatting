@@ -26,7 +26,7 @@ _Cmd üzerinde pb_ctl kullanabilmek için ortam değişkenlerine postgreye ait b
 ## Hata Çözümü
 Öncelikle conf içerisinde elle düzeltme yapmam bende işe yaramadı ve daha farklı hatalara sebep oldu. Bu kısımda düzenleme yapmanızı pek önermem.
 ### 1.Adım
-https://www.microsoft.com/en-us/download/detaLoils.aspx?id=41158 Adresine giderek Locale Builder uygulamasını indiriyoruz.
+https://www.microsoft.com/en-us/download/details.aspx?id=41158 Adresine giderek Locale Builder uygulamasını indiriyoruz.
 ### 2.Adım
 Kurulumu tamamladıktan sonra aşağıdaki gibi bir ekran gelecek. 
 ![image](https://github.com/orhansogut/PostgreSqlLocal-Formatting/assets/89242655/9f80ade0-5cfb-4736-86c7-3e8255fe04c7)
